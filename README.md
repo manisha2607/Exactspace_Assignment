@@ -2,7 +2,7 @@
 Project of Exactspace
 
 
-#For Testing in local system
+# For Testing in local system
     1: Make clone of this reporistory
     
     2: Open your clone in your code edittor
